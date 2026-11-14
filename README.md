@@ -50,7 +50,6 @@ I'm a **Full-Stack Developer** who builds reliable, well-structured applications
   <td>
     <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   </td>
 </tr>
 <tr>
@@ -76,13 +75,13 @@ I'm a **Full-Stack Developer** who builds reliable, well-structured applications
 
 <p align="center">
   <a href="https://github.com/AMJM123-Ayman">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=AMJM123-Ayman&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=1A73E8&icon_color=00C9A7&text_color=C9D1D9&count_private=true" />
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMJM123-Ayman&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=1A73E8&text_color=C9D1D9" />
+    <img height="160" src="https://github-stats-extended.vercel.app/api?username=AMJM123-Ayman&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=1A73E8&icon_color=00C9A7&text_color=C9D1D9&count_private=true" />
+    <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AMJM123-Ayman&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=1A73E8&text_color=C9D1D9" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AMJM123-Ayman&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1A73E8&ring=00C9A7&fire=00C9A7&currStreakLabel=1A73E8&sideLabels=C9D1D9&dates=8B949E" />
+  <img src="https://streak-stats.demolab.com?user=AMJM123-Ayman&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1A73E8&ring=00C9A7&fire=00C9A7&currStreakLabel=1A73E8&sideLabels=C9D1D9&dates=8B949E" />
 </p>
 
 ---
@@ -93,7 +92,7 @@ I'm a **Full-Stack Developer** who builds reliable, well-structured applications
 لإضافة مشروع مميز، استبدل REPO_NAME باسم الريبو بتاعك:
 
 <a href="https://github.com/AMJM123-Ayman/REPO_NAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AMJM123-Ayman&repo=REPO_NAME&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=1A73E8&icon_color=00C9A7&text_color=C9D1D9" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=AMJM123-Ayman&repo=REPO_NAME&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=1A73E8&icon_color=00C9A7&text_color=C9D1D9" />
 </a>
 -->
 
